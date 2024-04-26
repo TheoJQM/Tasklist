@@ -1,0 +1,46 @@
+[
+  {
+    "content": [
+      "See my dentist"
+    ],
+    "date": "2024-04-26",
+    "dueTag": "T",
+    "isComplete": true,
+    "priorityTag": "C",
+    "time": "17:00"
+  },
+  {
+    "content": [
+      "Cinema: get tickets",
+      "Check movie reviews"
+    ],
+    "date": "2024-05-03",
+    "dueTag": "I",
+    "isComplete": true,
+    "priorityTag": "H",
+    "time": "17:00"
+  },
+  {
+    "content": [
+      "Supermarket",
+      "Chocolates",
+      "flour",
+      "oranges"
+    ],
+    "date": "2024-04-19",
+    "dueTag": "O",
+    "isComplete": true,
+    "priorityTag": "N",
+    "time": "19:00"
+  },
+  {
+    "content": [
+      "Buy book"
+    ],
+    "date": "2024-05-03",
+    "dueTag": "I",
+    "isComplete": true,
+    "priorityTag": "L",
+    "time": "12:00"
+  }
+]
